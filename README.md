@@ -2,6 +2,14 @@
 
 Extensions to PHPUnit to ease testing and improve tests expressiveness.
 
+[![Latest Stable Version](https://poser.pugx.org/haijin/testing/version)](https://packagist.org/packages/haijin/testing)
+
+[![License](https://poser.pugx.org/haijin/testing/license)](https://packagist.org/packages/haijin/testing)
+
+[![Latest Unstable Version](https://poser.pugx.org/haijin/testing/v/unstable)](https://packagist.org/packages/haijin/testing)
+
+[![Build Status](https://travis-ci.org/haijin/testing.svg?branch=v0.0.2)](https://travis-ci.org/haijin/testing)
+
 ### Version 0.0.1
 
 This library is under active development and no stable version was released yet.
@@ -214,11 +222,4 @@ class YourTest extends TestCase
 
 ```
 composer test
-```
-
-<a name="c-4"></a>
-## Generating the api documentation
-
-```
-composer document
 ```
