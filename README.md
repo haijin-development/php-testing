@@ -3,7 +3,7 @@
 Extensions to PHPUnit to ease testing and improve tests expressiveness.
 
 [![Latest Stable Version](https://poser.pugx.org/haijin/testing/version)](https://packagist.org/packages/haijin/testing)
-[![Latest Unstable Version](https://poser.pugx.org/haijin/testing/v/unstable)](https://packagist.org/packages/haijin/testing)
+[![Latest Unstable Version](https://poser.pugx.org/haijin/testing/v/v0.0.2)](https://packagist.org/packages/haijin/testing)
 [![Build Status](https://travis-ci.org/haijin/testing.svg?branch=v0.0.2)](https://travis-ci.org/haijin/testing)
 [![License](https://poser.pugx.org/haijin/testing/license)](https://packagist.org/packages/haijin/testing)
 
