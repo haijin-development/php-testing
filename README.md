@@ -7,7 +7,7 @@ Extensions to PHPUnit to ease testing and improve tests expressiveness.
 [![Build Status](https://travis-ci.com/haijin-development/php-testing.svg?branch=v0.0.2)](https://travis-ci.com/haijin-development/php-testing)
 [![License](https://poser.pugx.org/haijin/testing/license)](https://packagist.org/packages/haijin/testing)
 
-### Version 0.0.1
+### Version 0.0.2
 
 This library is under active development and no stable version was released yet.
 

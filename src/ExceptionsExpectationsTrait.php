@@ -82,7 +82,7 @@ trait ExceptionsExpectationsTrait{
         } catch( \Exception $raised_exception ) {
             switch( get_class( $raised_exception ) ) {
                 case $expected_exception_class:
-                    if( $assertion_closure != null ) {
+                    if( $assertion_closure !== null ) {
                         $assertion_closure->call( $this, $raised_exception );
                     }
                     break;
