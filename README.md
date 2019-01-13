@@ -2,16 +2,14 @@
 
 Extensions to PHPUnit to ease testing and improve tests expressiveness.
 
+This library is deprecated and will no longer be developed nor maintained.
+It was fully replaced by [haijin/specs](https://github.com/haijin-development/php-specs).
+
 [![Latest Stable Version](https://poser.pugx.org/haijin/testing/version)](https://packagist.org/packages/haijin/testing)
 [![Latest Unstable Version](https://poser.pugx.org/haijin/testing/v/unstable)](https://packagist.org/packages/haijin/testing)
 [![Build Status](https://travis-ci.org/haijin-development/php-testing.svg?branch=v0.0.2)](https://travis-ci.org/haijin-development/php-testing)
 [![License](https://poser.pugx.org/haijin/testing/license)](https://packagist.org/packages/haijin/testing)
 
-### Version 0.0.2
-
-This library is under active development and no stable version was released yet.
-
-If you like it a lot you may contribute by [financing](https://github.com/haijin-development/support-haijin-development) its development.
 
 ## Table of contents
 

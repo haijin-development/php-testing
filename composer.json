@@ -1,4 +1,5 @@
 {
+    "abandoned": "haijin/specs",
     "name": "haijin/testing",
     "description": "Extensions to PHPUnit to ease testing and improve tests expressiveness.",
     "keywords": ["PHPUnit", "testing", "assertions", "expectations"],
